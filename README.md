@@ -24,6 +24,7 @@ Technologies:
 -Flutter
 -MongoDb
 -Tailwind
+
 Installation et Execution de l'application web
 --------------------------------------------------
 Pour exécuter une application Flutter, vous avez besoin de Flutter SDK. Voici comment procéder :
