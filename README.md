@@ -6,7 +6,7 @@ Projet en cours de réalisation par :
 ---------------------------------------
 -Doukar Aya
 -Belhaj Ikram
--Abdelah Quatre En Nada
+-Abdellah Qatre En Nada
 
 Fonctionnalités proposé:
 -----------------------------------------------------------
