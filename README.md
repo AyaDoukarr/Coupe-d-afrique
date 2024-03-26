@@ -24,6 +24,8 @@ Technologies:
 - [MongoDb](https://www.mongodb.com/)
 - [TailWind](https://tailwindcss.com/)
 - [ReactJS](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en)
+- [Express JS](https://expressjs.com/)
 
 
 Installation et Execution de l'application web
